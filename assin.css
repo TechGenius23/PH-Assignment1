@@ -1,0 +1,181 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+
+.baner-card{
+    position: relative;
+}
+.banner-card img{
+  margin-left: 70px;
+}
+.banner-text{
+    position: absolute;
+    top: 260px;
+color: white;
+padding-left: 540px; 
+}
+
+.banner-text h4{
+    text-align: center;
+   
+}
+.banner-text h1{
+    text-align: center;
+    
+}
+.sspart h1{
+    text-align: center;
+    color: red;
+}
+.sspart h5{
+    text-align: center;
+}
+.sspart h3{
+    text-align: center;
+}
+.ssimage{
+    margin-left: 300px;
+}
+
+
+.pppp img{
+    margin-left: 70px;
+}
+
+
+
+.pppp{
+    position: relative;
+}
+.pppp-text{
+    position: absolute;
+    top: 126px;
+    margin-right: 552px;
+    margin-bottom:298px ;
+    margin-left:126px;
+    color: aliceblue;
+}
+
+.pppp-text h2{
+    font-size: 50px;
+}
+
+.kkk{
+    position: absolute;
+    margin-left: 862.17px;
+    margin-top: -480.11px;
+}
+
+
+.shedule{
+    text-align: center;
+    background-color: bisque;
+    border-radius: 15px;
+}
+.plc{
+    color: red;
+}
+.tt{
+    color: red;
+}
+.dd{
+    color: red;
+}
+.btn{
+    color:black;
+    background-color: red;
+    
+}
+.subb{
+    background-color: red;
+}
+
+
+.holiday{
+    background-color:white;
+    border-radius:15px;
+}
+.holiday h4{
+    font-size: 22px;
+    text-align: center;
+}
+.holiday h1{
+    font-size: 50px;
+    text-align: center;
+}
+.holiday h3{
+    font-size: 15px;
+    text-align: center;
+}
+.sur{
+    color: red;
+}
+
+
+.jhamala{
+    position: relative;
+}
+.whi{
+margin-bottom:-200px;
+
+
+}
+.lad{
+    margin-inline-end: 10px;
+    
+}
+.red{
+    color: white;
+}
+.for{
+    color:red;
+}
+.picture-zone{
+    margin-left: 80px;
+    padding: 5px;
+}
+ 
+
+.atlast{
+    position:relative;
+    background-color: bisque;
+    border-radius: 25px;
+}
+.atlast img{
+    margin-left: 650px;
+   
+}
+.mail{
+    text-align: center;
+}
+.finish{
+    background-color: black;
+    border-radius: 20px;
+    
+}
+.icon{
+    padding-left: 600px;
+    padding-bottom: 20px;
+}
+
+
+.gg{
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+} 
+.hhh{
+    color:white;
+   margin-left: 1200px;
+   padding-top: 30px;
+   
+}
+.nnn{
+    color: white;
+}
+.qqq{
+    color: white;
+    margin-left: 1200px;
+}
